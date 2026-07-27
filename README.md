@@ -15,11 +15,11 @@ expected to have.
 ```
 src/main/java/com/ayyoub/dsa/
 ├── datastructures/
-│   ├── linear/        — array, linkedlist, stack, queue
+│   ├── linear/         — array, linkedlist, stack, queue
 │   ├── hashbased/      — hashtable, hashset
 │   ├── trees/          — binarytree, bst, avl, red-black, splay, heap, etc.
-│   ├── graphs/          — representations, disjoint set
-│   └── advanced/        — bloom filter, skiplist, lru cache
+│   ├── graphs/         — representations, disjoint set
+│   └── advanced/       — bloom filter, skiplist, lru cache
 └── algorithms/
     ├── searching/
     ├── sorting/
