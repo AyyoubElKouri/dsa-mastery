@@ -3,7 +3,7 @@
 ## Data Structures
 
 ### Linear
-- [ ] Array
+- [x] Array
 - [ ] Linked List
 - [ ] Stack
 - [ ] Queue
